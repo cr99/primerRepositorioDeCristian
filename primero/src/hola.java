@@ -1,6 +1,7 @@
 
 public class hola {
 	private String nombre;
+	private String apellidos;
 	public void Despedida() {
 		System.out.println("gracias por su visita");
 	}
